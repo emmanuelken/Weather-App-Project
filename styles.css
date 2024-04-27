@@ -1,0 +1,22 @@
+#weather {
+    background: grey;
+    display: flex;
+    flex-direction: column;
+    padding: 2%;
+    margin-top: 5%;
+    align-items: center;
+    color: rgb(247, 184, 67);
+}
+
+#weather span {
+    color: rgb(9, 238, 9);
+}
+
+#weather h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#weather p {
+    background: black;
+    padding: 1%;
+}
